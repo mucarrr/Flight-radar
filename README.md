@@ -22,4 +22,4 @@ In this great project, I present users to track live positions and routes of pla
 ✔️Ensuring seamless coordination between backend data fetching and frontend user experiences.
 
  # Preview of the Project
- ![(flights.gif)]
+ ![](flights.gif)
